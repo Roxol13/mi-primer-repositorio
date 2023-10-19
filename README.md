@@ -1,2 +1,1 @@
-# mi-primer-repositorio
-#Se creará proximammente un codigo de gestion de inventario y de las ganancias de una heladería
+#Se creará proximammente un codigo de gestion de inventario y de finacias, donde el cliente sera capaz de observar diferentes datos sobre su heladeria, como: Las ventas totales por día, La cantidad de producto que tiene en inventario, porcentaje y promedio de productos vrndidos, etc.
